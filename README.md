@@ -6,10 +6,16 @@
 <img src="./arvore-crescendo.svg" alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos" width="300">
 </div> 
 <div width="50%"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695)](https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/) 
-[![Instagram](https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43)](https://www.instagram.com/_igor_c_lima_/) 
-[![Portfólio](https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30)](https://igorcdelima.github.io/portifolio/)
-[![E-mail](https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43)](mailto:igor.c.l.oficial@outlook.com)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695)](https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/)
+<br>
+
+  [![Instagram](https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43)](https://www.instagram.com/_igor_c_lima_/) 
+<br>
+
+  [![Portfólio](https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30)](https://igorcdelima.github.io/portifolio/)
+<br>
+  [![E-mail](https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43)](mailto:igor.c.l.oficial@outlook.com)
 </div> 
 </div>
 
