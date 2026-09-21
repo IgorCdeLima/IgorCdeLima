@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src = "./banner.png" src = "banner.png" width="100%">
+</div>
 
 <table width="100%">
   <tr>
@@ -41,11 +42,6 @@
 </table>
 
 
-</div>
-
-
-
-<br>
 
 ## Sobre mim
 
