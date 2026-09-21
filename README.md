@@ -3,9 +3,10 @@
 <img src = "./banner.png" src = "banner.png" width="100%">
 </div>
 
+<div width="100dvw">
 <table width="100%">
-  <tr>
-    <td width="50%" align="center">
+<tr>
+<td width="50%" align="center">
 
 <img src="./arvore-crescendo.svg"
            alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos"
@@ -40,7 +41,7 @@
 </td>
   </tr>
 </table>
-
+</div>
 
 
 ## Sobre mim
