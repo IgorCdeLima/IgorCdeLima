@@ -2,7 +2,7 @@
 
 <img src = "./banner.png" src = "banner.png" width="100%">
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
 
