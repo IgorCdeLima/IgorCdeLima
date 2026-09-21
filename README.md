@@ -73,11 +73,6 @@ Estrutura em construção — em breve trago aqui os projetos que venho desenvol
 
 ## Contato
 
-📍 Caxias do Sul — RS, Brasil
-📫 [igor.c.l.oficial@outlook.com](mailto:igor.c.l.oficial@outlook.com)
-💼 [LinkedIn](https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/)
-🌐 [Portfólio](https://igorcdelima.github.io/portifolio/)
-
 <div align="center">
 <sub>Construído aos poucos, um problema resolvido de cada vez.</sub>
 </div>
