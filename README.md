@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Igor 👋
+# Olá, eu sou o Igor 
 
 ### Desenvolvimento de sistemas, automação e análise de dados
 
@@ -9,6 +9,10 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30)](https://igorcdelima.github.io/portifolio/)
 [![E-mail](https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43)](mailto:igor.c.l.oficial@outlook.com)
 
+</div>
+
+<div align="center">
+<img src="./arvore-crescendo.svg" alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos" width="300">
 </div>
 
 <br>
@@ -24,6 +28,8 @@ Venho também direcionando meus estudos para **análise e tratamento de dados**,
 ```text
 entender o problema  →  construir a solução  →  entregar
 ```
+
+
 
 ## O que estou fazendo atualmente
 
