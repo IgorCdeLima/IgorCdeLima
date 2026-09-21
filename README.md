@@ -2,18 +2,48 @@
 
 <img src = "./banner.png" src = "banner.png" width="100%">
 
-### Desenvolvimento de sistemas, automação e análise de dados
+<table>
+  <tr>
+    <td width="50%" align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695)](https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/)
-[![Instagram](https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43)](https://www.instagram.com/_igor_c_lima_/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30)](https://igorcdelima.github.io/portifolio/)
-[![E-mail](https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43)](mailto:igor.c.l.oficial@outlook.com)
+      <img src="./arvore-crescendo.svg"
+           alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos"
+           width="300">
+
+    </td>
+
+    <td width="50%" align="center">
+
+      <a href="https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/">
+        <img src="https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695">
+      </a>
+
+      <br>
+
+      <a href="https://www.instagram.com/_igor_c_lima_/">
+        <img src="https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43">
+      </a>
+
+      <br>
+
+      <a href="https://igorcdelima.github.io/portifolio/">
+        <img src="https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30">
+      </a>
+
+      <br>
+
+      <a href="mailto:igor.c.l.oficial@outlook.com">
+        <img src="https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43">
+      </a>
+
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
-<div align="center">
-<img src="./arvore-crescendo.svg" alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos" width="300">
-</div>
+
 
 <br>
 
