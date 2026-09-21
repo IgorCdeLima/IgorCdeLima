@@ -6,37 +6,37 @@
   <tr>
     <td width="50%" align="center">
 
-      <img src="./arvore-crescendo.svg"
+<img src="./arvore-crescendo.svg"
            alt="Uma árvore em pixel art crescendo em ciclo, do broto à árvore com frutos"
            width="300">
 
-    </td>
+</td>
 
-    <td width="50%" align="center">
+<td width="50%" align="center">
 
-      <a href="https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/">
-        <img src="https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695">
-      </a>
+<a href="https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/">
+<img src="https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695">
+</a>
 
-      <br>
+<br>
 
-      <a href="https://www.instagram.com/_igor_c_lima_/">
-        <img src="https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43">
-      </a>
+<a href="https://www.instagram.com/_igor_c_lima_/">
+<img src="https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43">
+</a>
 
-      <br>
+<br>
 
-      <a href="https://igorcdelima.github.io/portifolio/">
-        <img src="https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30">
-      </a>
+<a href="https://igorcdelima.github.io/portifolio/">
+<img src="https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30">
+</a>
 
-      <br>
+<br>
 
-      <a href="mailto:igor.c.l.oficial@outlook.com">
-        <img src="https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43">
-      </a>
+<a href="mailto:igor.c.l.oficial@outlook.com">
+<img src="https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43">
+</a>
 
-    </td>
+</td>
   </tr>
 </table>
 
