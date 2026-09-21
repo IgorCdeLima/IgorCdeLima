@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src = "./banner.png" alt = "banner de fundo" width="100%">
+![Banner](./banner-perfil.svg)
 
 ### Desenvolvimento de sistemas, automação e análise de dados
 
