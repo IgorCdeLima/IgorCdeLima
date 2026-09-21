@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Igor 
+<img src = "./banner.png" alt = "banner de fundo" width="100%">
 
 ### Desenvolvimento de sistemas, automação e análise de dados
 
