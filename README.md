@@ -3,7 +3,7 @@
 <img src = "./banner.png" src = "banner.png" width="100%">
 </div>
 
-<div width="50%"> 
+<div width="50%" align="center"> 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1C26?style=flat-square&logo=linkedin&logoColor=49A695)](https://www.linkedin.com/in/igor-cechinato-de-lima-6099a726/)  [![Instagram](https://img.shields.io/badge/Instagram-0B1C26?style=flat-square&logo=instagram&logoColor=F3ED43)](https://www.instagram.com/_igor_c_lima_/) [![Portfólio](https://img.shields.io/badge/Portfólio-0B1C26?style=flat-square&logo=googlechrome&logoColor=6CBF30)](https://igorcdelima.github.io/portifolio/) [![E-mail](https://img.shields.io/badge/E--mail-0B1C26?style=flat-square&logo=maildotru&logoColor=F3ED43)](mailto:igor.c.l.oficial@outlook.com)
 </div> 
