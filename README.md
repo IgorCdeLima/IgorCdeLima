@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na **Universidade de Caxias do Sul (UCS)**, atualmente no **6º semestre**, e trabalho na **Escola SuperGeeks**, em Caxias do Sul — RS, onde atuo com desenvolvimento e também como **professor de Programação**.
+Analista de Dados em formação e acadêmico de Ciência da Computação na **Universidade de Caxias do Sul (UCS)**, atualmente no **6º semestre**, e trabalho na **Escola SuperGeeks**, em Caxias do Sul — RS, onde atuo com desenvolvimento e também como **professor de Programação**.
 
 Venho direcionando meus estudos para **análise e tratamento de dados**, com o objetivo de seguir, mais adiante, para engenharia de dados e IA.
 
@@ -50,7 +50,7 @@ Estrutura em construção — em breve trago aqui os projetos que venho desenvol
 | | |
 |---|---|
 | **Professor de Programação** | Escola SuperGeeks — Caxias do Sul |
-| **Desenvolvimento** | Sistemas, APIs (FastAPI) e Docker |
+| **Desenvolvimento** | Análise e exploração de dados, Engenheiro de Inteligência Artificial |
 | **Atendimento a clientes** | Entender a necessidade antes de propor a solução |
 | **Formação** | Ciência da Computação — UCS (7º semestre) |
 
