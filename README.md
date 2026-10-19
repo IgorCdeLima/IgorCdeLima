@@ -12,28 +12,20 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na **Universidade de Caxias do Sul (UCS)**, atualmente no **7º semestre**, e trabalho na **Escola SuperGeeks**, em Caxias do Sul — RS, onde atuo com desenvolvimento e também como **professor de Programação**.
+Sou estudante de Ciência da Computação na **Universidade de Caxias do Sul (UCS)**, atualmente no **6º semestre**, e trabalho na **Escola SuperGeeks**, em Caxias do Sul — RS, onde atuo com desenvolvimento e também como **professor de Programação**.
 
-No dia a dia, desenvolvo sistemas, trabalho com **APIs em Python (FastAPI)**, uso **Docker** para organizar e publicar aplicações, e tenho experiência em **atendimento a clientes** — entender o problema de quem vou ajudar antes de sair escrevendo código.
-
-Venho também direcionando meus estudos para **análise e tratamento de dados**, com o objetivo de seguir, mais adiante, para engenharia de dados e IA.
-
-```text
-entender o problema  →  construir a solução  →  entregar
-```
-
+Venho direcionando meus estudos para **análise e tratamento de dados**, com o objetivo de seguir, mais adiante, para engenharia de dados e IA.
 
 
 ## O que estou fazendo atualmente
 
-- 🎓 Cursando o 7º semestre de Ciência da Computação (UCS)
+- 🎓 Cursando o 6º semestre de Ciência da Computação (UCS)
 - 👨‍🏫 Ensinando Programação na Escola SuperGeeks
-- 🛠️ Desenvolvendo sistemas e APIs com Python e FastAPI
 - 📊 Estudando análise e tratamento de dados
 
 ## Áreas de interesse
 
-`Desenvolvimento de sistemas` · `Automação` · `APIs` · `Bancos de dados` · `Análise de dados` · `Engenharia de dados` · `Docker`
+`Desenvolvimento de sistemas` · `Automação` · `APIs` · `Bancos de dados` · `Análise de dados` · `Engenharia de dados` · `Inteligência Artificial`
 
 ## Tecnologias
 
@@ -44,9 +36,6 @@ Ferramentas que uso no trabalho e nos estudos:
 ![Docker](https://img.shields.io/badge/Docker-0B1C26?style=for-the-badge&logo=docker&logoColor=49A695)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1C26?style=for-the-badge&logo=postgresql&logoColor=6CBF30)
 ![SQL](https://img.shields.io/badge/SQL-0B1C26?style=for-the-badge&logo=databricks&logoColor=6CBF30)
-![C](https://img.shields.io/badge/C-0B1C26?style=for-the-badge&logo=c&logoColor=E6EFEB)
-![C++](https://img.shields.io/badge/C%2B%2B-0B1C26?style=for-the-badge&logo=cplusplus&logoColor=E6EFEB)
-![C#](https://img.shields.io/badge/C%23-0B1C26?style=for-the-badge&logo=csharp&logoColor=E6EFEB)
 ![Git](https://img.shields.io/badge/Git-0B1C26?style=for-the-badge&logo=git&logoColor=F3ED43)
 
 > Python, FastAPI e Docker são o que uso com mais frequência hoje. As demais linguagens fazem parte da minha formação.
